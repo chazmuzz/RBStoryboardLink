@@ -7,10 +7,10 @@ Pod::Spec.new do |s|
     :type => 'MIT',
     :file => 'LICENSE'
   }
-  s.dependency 'Typhoon', '~> 2.3.1'
+  s.dependency 'Typhoon', '~> 3.0.0'
   s.author       = 'Pawel Urban'
   s.source       = {
-      :git => 'https://github.com/papcio28/RBStoryboardLink.git',
+      :git => 'https://github.com/chazmuzz/RBStoryboardLink.git',
       :branch => 'master'
   }
   s.platform     = :ios, '7.0'
